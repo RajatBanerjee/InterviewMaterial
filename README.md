@@ -1,7 +1,7 @@
 # Source Material
 - http://elementsofprogramminginterviews.com/
 
-# InterviewMaterial
+# Interview Material
 Collection of material for a programming interview
 
 Products You Should consider buying
