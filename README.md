@@ -33,20 +33,18 @@ Products You Should consider buying
 - MIT Lecture 1 https://www.youtube.com/watch?v=OQ5jsbhAv_M
 
 ## System Design
-Whats App design : https://www.youtube.com/watch?v=vvhC64hQZMk
-System Design : Design a service like TinyUrlhttps://www.youtube.com/watch?v=fMZMm_0ZhK4
-
-Content Delivery Network - CDN
-
-Video STreaming - Netflix
-Ride Share- Uber
-Distributed Caching: https://www.youtube.com/watch?v=U3RkDLtS7uY
-
-Messaging Queue
-Design Fandango\Bookmyshow
+- [Study this first](https://github.com/donnemartin/system-design-primer)
+- [Whats App design](https://www.youtube.com/watch?v=vvhC64hQZMk)
+- [TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
+- [Content Delivery Network - CDN]
+- Video STreaming - Netflix
+- Ride Share- Uber
+- [Distributed Caching] (https://www.youtube.com/watch?v=U3RkDLtS7uY)
+- Messaging Queue
+- Fandango\Bookmyshow
 
 ## Node JS
- Event Loop : https://www.youtube.com/watch?v=8aGhZQkoFbQ
+ - Event Loop : https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 ## GOLANG
 - https://github.com/mrekucci/epi
